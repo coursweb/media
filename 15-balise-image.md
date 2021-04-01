@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Balise IMG
-permalink: /media/img/
 ---
 
 ## Les images

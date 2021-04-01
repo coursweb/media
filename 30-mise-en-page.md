@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Mise en page
-permalink: /media/image-layout/
 ---
 
 ### Propriété CSS utile: object-fit

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Balise Picture
-permalink: /media/picture/
 ---
 
 La balise Picture

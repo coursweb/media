@@ -12,7 +12,7 @@ Voici comment faire une exportation depuis un logiciel (Photoshop):
 
 Commencez par vérifier les dimensons (hauteur / largeur) de l'image. Dans Photoshop, allez dans le menu *Image > Taille de l'image...* (raccourci: alt+cmd+I).
 
-![](/cours-media/img/1-image-resize.jpg)
+![](img/1-image-resize.jpg)
 
 Ce menu vous permet de vérifier la taille de l'image, et de la redimensionner si nécessaire.
 
@@ -34,11 +34,11 @@ On peut donc estimer qu'une taille d'image maximale de 2000 ou 2400 pixels est r
 
 Dans cet exemple, on voit que l'image a une taille de 7136 x 5360 px, ce qui est sans doute excessif pour notre site web.
 
-![](/cours-media/img/2-image-resize.jpg)
+![](img/2-image-resize.jpg)
 
 Il faudra donc redimensionner l'image en réduisant sa largeur, p.ex. à 2400 px.
 
-![](/cours-media/img/3-resize.jpg)
+![](img/3-resize.jpg)
 
 ### Exportation
 
@@ -50,11 +50,11 @@ Le JPEG sera le format que vous choisirez, dans la grande majorité des cas. Il 
 
 Pour exporter avec un maximum de paramètres, utilisez le menu *Fichier > Exportation > Enregistrer pour le web (hérité)* (raccourci: Maj+Alt+Cmd+S).
 
-![](/cours-media/img/4-export-for-web.jpg)
+![](img/4-export-for-web.jpg)
 
 Cela vous ouvre une grande fenêtre avec de nombreux réglages:
 
-![](/cours-media/img/5-export.jpg)
+![](img/5-export.jpg)
 
 Voici la procédure à suivre:
 

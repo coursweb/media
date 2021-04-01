@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Balise Figure
-permalink: /media/figure/
 ---
 
 La balise Figure
