@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exportation d'images
-permalink: /media/exporter/
+permalink: exporter.html
 ---
 
 Afin de publier des images sur le web, il faut veiller à ce que leur format et leur poids soit approprié.
