@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Images responsives
-permalink: /media/images-responsives/
+permalink: images-responsives.html
 ---
 
 Images responsives

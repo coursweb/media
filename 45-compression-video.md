@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Compression vidéo
-permalink: /media/compression-video/
+permalink: compression-video.html
 ---
 
 Informations sur la compression de fichiers vidéo.

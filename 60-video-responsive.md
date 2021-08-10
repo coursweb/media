@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vidéo responsive
-permalink: /media/video-responsive/
+permalink: video-responsive.html
 ---
 
 # Vidéo responsive

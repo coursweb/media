@@ -2,3 +2,18 @@ remote_theme: coursweb/jk-theme
 title: Média
 description: Cours sur l'intégration de fichiers media sur le web.
 lang: fr-FR
+chapters:
+ - title: Cours-web
+   url: https://cours-web.ch/
+ - title: HTML
+   url: https://cours-web.ch/html/
+ - title: CSS
+   url: https://cours-web.ch/html/
+ - title: JavaScript
+   url: https://cours-web.ch/javascript/
+ - title: WordPress
+   url: https://cours-web.ch/wp/
+ - title: Media
+   url: https://cours-web.ch/media/
+ - title: Divers
+   url: https://cours-web.ch/divers/
