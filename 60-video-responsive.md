@@ -17,7 +17,7 @@ video {
 
 Source: [w3schools.com](https://www.w3schools.com/css/css_rwd_videos.asp)
 
-## Méthode responsive pour les IFRAME
+## Méthode responsive pour les iframe
 
 Si vous importez une vidéo depuis Youtube ou Vimeo, le code fourni comporte une balise "iframe". Cette balise ne pourra pas automatiquement se mettre à la hauteur de la vidéo, il faut donc appliquer une astuce. 
 
@@ -30,7 +30,7 @@ Depuis 2021 ([selon caniuse](https://caniuse.com/mdn-css_properties_aspect-ratio
 }
 ```
 
-Auparavant, une méthode (légèrement plus compliquée) utilisant le "padding-top" était une solution souvent utilisée. Cette méthode "fluid-width video" a été décrite sur le site [CSS Tricks](https://css-tricks.com/fluid-width-video/).
+Auparavant, une méthode (légèrement plus compliquée) utilisant le "padding-top" était une solution souvent utilisée. Cette méthode "fluid-width video" (aussi connue comme le "padding-hack") a été décrite sur le site [CSS Tricks](https://css-tricks.com/fluid-width-video/).
 
 ## Insérer (une vidéo en background) depuis Youtube ou Vimeo
 
