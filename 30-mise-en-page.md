@@ -21,3 +21,9 @@ Exemples :
 * [Exemple sur Mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
 
 Support navigateurs: cette propriété n'est pas supportée dans Internet Explorer, elle sera dans Edge dès la version 16. [Voir Caniuse.com](http://caniuse.com/#search=object-fit) pour le statut actuel.
+
+## Explication du object-fit sur Debug TV 
+
+<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/y65JkO8-QaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Dans l'épisode 4 de [Debug TV](https://www.youtube.com/playlist?list=PLlfJkWGxh-q2AueB9twTsnATiCH0W3kEB), Adrien Cater explique les propriétés `object-fit` et `aspect-ratio`.

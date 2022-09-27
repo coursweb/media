@@ -36,3 +36,8 @@ Auparavant, une méthode (légèrement plus compliquée) utilisant le "padding-t
 
 Collection d’exemples: [https://github.com/eracom/yt-video-bg](https://github.com/eracom/yt-video-bg)
 
+## Explication du aspect-ratio sur Debug TV 
+
+<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/y65JkO8-QaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Dans l'épisode 4 de [Debug TV](https://www.youtube.com/playlist?list=PLlfJkWGxh-q2AueB9twTsnATiCH0W3kEB), Adrien Cater explique les propriétés `object-fit` et `aspect-ratio`.
