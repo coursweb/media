@@ -12,10 +12,10 @@ Les balises `<figure>` et `<figcaption>` permettent de grouper une image avec sa
 
 Exemple d'utilisation:
 
-~~~
+```html
 <figure>
     <img src="monchat.jpg" alt="Un chat faisant la sieste.">
     <figcaption>Voici une photo de mon chat.</figcaption>
 </figure>
-~~~
+```
 

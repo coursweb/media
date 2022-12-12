@@ -37,7 +37,7 @@ Autres formats de compression:
 
 ## Utiliser la balise Picture
 
-Pour des images ayant un support partiel, c'est une excellente idée de les intégrer dans plusieurs formats au moyen de la balise HTML `picture`. Exemple:
+Pour les formats ayant un support partiel, c'est une excellente idée de les intégrer avec un "fallback" au moyen de la balise HTML `picture`. Exemple:
 
 ```html
 <picture>
