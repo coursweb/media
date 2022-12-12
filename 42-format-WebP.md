@@ -45,7 +45,7 @@ Pour des images ayant un support partiel, c'est une excellente idÃ©e de les intÃ
  <source srcset="img/photo.webp" type="image/webp">
  <img src="img/photo.jpg" alt="Description" width="360" height="240">
 </picture>
-``
+```
 
 ## Voir aussi
 
