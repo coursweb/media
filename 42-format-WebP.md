@@ -10,7 +10,8 @@ Le format WebP est un format d'image développé et mis à disposition par Googl
 
 Les images peuvent être exportées au format WebP depuis ces logiciels:
 
-- [WebPonize](https://webponize.org), une petite application gratuite pour convertir des images en WebP.
+- [Squoosh](https://squoosh.app/), web app de compression d'images créée par Google, permettant de choisir des formats comme WebP, AVIF, JPEG XL...
+- [Just Gimme an IMG](https://just-gimme-an-img.vercel.app/), outil web pour optimiser des images et obtenir le code HTML pour les insérer.
 - [Sketch](https://www.sketch.com/)
 - Pixelmator
 - Google [propose une extension](https://developers.google.com/speed/webp/docs/webpshop) pour l'export depuis Photoshop.
