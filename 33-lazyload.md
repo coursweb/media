@@ -14,18 +14,20 @@ Désormais, un attribut HTML a été défini, qui est progressivement adopté pa
 - Depuis 2019 dans Chrome (77)
 - Depuis 2020 dans Edge (79)
 - Depuis 2020 dans Firefox (75)
-- Depuis décembre 2022 dans Chrome pour Android (108)
 - Depuis 2022 dans Safari (15.4)
+- Depuis décembre 2022 dans Chrome pour Android (108)
 
-En janvier 2023, cet attribut est pris en compte dans 91.47% des navigateurs.
+En janvier 2023, cet attribut est pris en compte dans 91.47% des navigateurs!
 
-## Comment utiliser
+## Comment l'utiliser
 
 Il suffit d'ajouter un attribut `loading="lazy"` à la balise `img`. Exemple:
 
 ```html
 <img src="image.png" loading="lazy" alt="…" width="200" height="200">
 ```
+
+C'est tout! Cet attribut indique au navigateur de ne déclencher le chargement qu'au moment où l'image devient visible. Vous améliorez ainsi la performance de votre site, car le chargement initial est accéléré.
 
 ## Ressources
 
