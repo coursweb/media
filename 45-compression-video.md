@@ -12,7 +12,7 @@ Les recommandations de compression de Vimeo: [https://vimeo.com/help/compression
 - pour 720p, Bit rate de 5-10 Mbps
 - pour 1080p, Bit rate de 10-20 Mbps
 
-Il faut considérer que ces Bit rates sont le point de départ, les versions produites ensuite par Vimeo vont être réduites de moitié.
+Il faut considérer que ces Bit rates sont le point de départ, les versions produites ensuite par Vimeo vont être *réduites de moitié*.
 
 Si on analyse les vidéos en ligne sur Vimeo, [par exemple celle-ci](https://vimeo.com/channels/staffpicks/417104590), on découvre les Bit rates suivantes:
 
