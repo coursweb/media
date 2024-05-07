@@ -95,7 +95,7 @@ Quelques collections d'icônes en SVG:
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - icônes de moins de 1kb.
 - [The Noun Project](https://thenounproject.com/)
 - [Spark Joy](https://github.com/sw-yx/spark-joy/blob/master/README.md#general--misc) - une énorme liste de sites-ressources
-- [Un fil twitter récent](https://twitter.com/argyleink/status/1480237318971686918) qui liste des "favorite open source icon libraries"
+- [Un fil twitter de 2022](https://twitter.com/argyleink/status/1480237318971686918) qui liste des "favorite open source icon libraries"
 
 ### Créer ou modifier des SVG
 
