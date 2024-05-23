@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Le format WebP
+title: WebP, AVIF etc
 permalink: format-webp.html
 ---
 
@@ -50,6 +50,6 @@ Pour les formats ayant un support partiel, c'est une excellente idée de les int
 
 ## Voir aussi
 
-- [Un article](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/) comparant WebP et AVIF dans Smashing Magazine.
+- [Un article](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/) comparant WebP et AVIF dans Smashing Magazine. AVIF donne de meilleurs résultats.
 - [Just Gimme an IMG](https://just-gimme-an-img.vercel.app/), outil web pour optimiser des images et obtenir le code HTML pour les insérer.
 - [Squoosh](https://squoosh.app/), web app de compression d'images créée par Google, permettant de choisir des formats comme WebP, AVIF, JPEG XL...
