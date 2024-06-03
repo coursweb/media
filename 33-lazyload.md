@@ -5,7 +5,7 @@ title: Lazy load
 
 La technique du "lazy load" consiste à ne charger des ressources que lorsqu'elles sont nécessaires pour l'affichage visible.
 
-Ainsi, des images qui se situent "hors-champ" lors du chargement initial, ne seront chargées que lorsque le scroll les fait entrer dans zone visible.
+Ainsi, des images qui se situent "hors-champ" lors du chargement initial, ne seront chargées que lorsque le scroll les fait entrer dans la zone visible à l'écran.
 
 Cette méthode a été utilisée depuis de nombreuses années en ayant recours à des solutions JavaScript.
 
@@ -17,7 +17,7 @@ Désormais, un attribut HTML a été défini, qui est progressivement adopté pa
 - Depuis 2022 dans Safari (15.4)
 - Depuis décembre 2022 dans Chrome pour Android (108)
 
-En janvier 2023, cet attribut est pris en compte dans 91.47% des navigateurs!
+En 2024, cet attribut est pris en compte dans 95.57% des navigateurs!
 
 ## Comment l'utiliser
 
