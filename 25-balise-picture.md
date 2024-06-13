@@ -15,6 +15,8 @@ Exemple:
     <img src="chat_mignon.jpg" alt="Un chat particulièrement mignon" loading="lazy">
 </picture>
 ```
+Note: les attributs "alt" et "loading" ne doivent figurer que sur la balise `<img>`, il n'est pas nécessaire de les dupliquer (voir [discussion Stackoverflow](https://stackoverflow.com/questions/24025464/lazy-loading-html5-picture-element)).
+
 
 ## Support dans les navigateurs 
 
