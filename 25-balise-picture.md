@@ -17,10 +17,7 @@ Exemple:
 ```
 Note: les attributs "alt" et "loading" ne doivent figurer que sur la balise `<img>`, il n'est pas nécessaire de les dupliquer (voir [discussion Stackoverflow](https://stackoverflow.com/questions/24025464/lazy-loading-html5-picture-element)).
 
-
-## Support dans les navigateurs 
-
-La balise picture est supportée dans quasiment tous les navigateurs, [selon CanIUse](https://caniuse.com/#feat=picture).
+## Avec les images de background
 
 Pour obtenir cette fonctionnalité avec les images de fond chargées en CSS, on peut utiliser la fonction CSS `image-set()`.
 
