@@ -12,7 +12,7 @@ Exemple:
 <picture>
     <source type="image/webp" srcset="chat_mignon.webp">
     <source type="image/jpeg" srcset="chat_mignon.jpg">
-    <img src="chat_mignon.jpg" alt="My Image">
+    <img src="chat_mignon.jpg" alt="Un chat particulièrement mignon" loading="lazy">
 </picture>
 ```
 
