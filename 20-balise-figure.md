@@ -6,9 +6,9 @@ title: Balise Figure
 La balise Figure
 ===
 
-Cette balise est l'un des nouveaux éléments sémantiques apportées par le HTML5, vers 2010.
-
 Les balises `<figure>` et `<figcaption>` permettent de grouper une image avec sa légende (en anglais: *caption*).
+
+Ces balises n'amènent pas d'effet visuel particulier. Elles font partie des nouvelles balises "sémantiques" apportées par le HTML5, entre 2010-2011 (avec `<article>`, `<nav>`, `<header>`...).
 
 Exemple d'utilisation:
 
