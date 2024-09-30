@@ -1,8 +1,4 @@
----
-layout: page
-title: Images responsives
-permalink: images-responsives.html
----
+
 
 Images responsives
 ===
@@ -50,7 +46,7 @@ Enfin, une méthode trouvée sur [un site de Google](https://design.google.com/a
 </div>
 ```
 
-On notera qu'il n'y a pas de balise image (&lt;img&gt;), l'image est affichée comme image de fond en css (background-image). Son conteneur est un simple `<div>`.
+On notera qu'il n'y a pas dans ce code de balise image (&lt;img&gt;), l'image est affichée comme image de fond en css (background-image). Son conteneur est un simple `<div>`.
 
 ## Références sur les images responsives
 

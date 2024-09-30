@@ -42,9 +42,17 @@ Pour les formats ayant un support partiel, c'est une excellente idée de les int
 
 ```html
 <picture>
- <source srcset="img/photo.avif" type="image/avif">
- <source srcset="img/photo.webp" type="image/webp">
- <img src="img/photo.jpg" alt="Description" width="360" height="240">
+ <source 
+   srcset="photo.avif" 
+   type="image/avif">
+ <source 
+   srcset="photo.webp" 
+   type="image/webp">
+ <img 
+   src="photo.jpg" 
+   alt="Description" 
+   width="360" 
+   height="240">
 </picture>
 ```
 

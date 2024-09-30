@@ -6,16 +6,48 @@ title: Balise Picture
 La balise Picture
 ===
 
-Exemple:
+La balise `<picture>` est un élément d'image adaptative. Elle permet de définir plusieurs plusieurs éléments source. On peut ainsi proposer des résolutions différentes, ou des formats d'image alternatifs (voir [WebP, AVIF etc]()). 
+
+Cette balise a été acceptée par l'ensemble des navigateures depuis 2016.
+
+Exemple pour proposer différents formats d'image (AVIF et WEBP).
 
 ```html
 <picture>
-    <source type="image/webp" srcset="chat_mignon.webp">
-    <source type="image/jpeg" srcset="chat_mignon.jpg">
-    <img src="chat_mignon.jpg" alt="Un chat particulièrement mignon" loading="lazy">
+    <source 
+      srcset="chat_mignon.avif" 
+      type="image/avif">
+    <source 
+      srcset="chat_mignon.webp"
+      type="image/webp">
+    <img 
+      src="chat_mignon.jpg" 
+      alt="Un chat très mignon" 
+      loading="lazy"
+      width="360" 
+      height="240">
 </picture>
 ```
-Note: les attributs "alt" et "loading" ne doivent figurer que sur la balise `<img>`, il n'est pas nécessaire de les dupliquer (voir [discussion Stackoverflow](https://stackoverflow.com/questions/24025464/lazy-loading-html5-picture-element)).
+
+On utilise le JPG comme format par défaut (*fallback*).
+
+Note: les attributs "alt", "loading", "width" et "height" ne doivent figurer que sur la balise `<img>`, il n'est pas nécessaire de les dupliquer (voir [discussion Stackoverflow](https://stackoverflow.com/questions/24025464/lazy-loading-html5-picture-element)).
+
+Un autre exemple pour proposer des images dans différentes résolutions, adaptées la taille de l'écran:
+
+```html
+<picture>
+  <source 
+    media="(min-width: 650px)"
+    srcset="kitten-stretching.png">
+  <source 
+    media="(min-width: 465px)"
+    srcset="kitten-sitting.png">
+  <img 
+    src="kitten-curled.png" 
+    alt="a cute kitten">
+</picture>
+```
 
 ## Avec les images de background
 
