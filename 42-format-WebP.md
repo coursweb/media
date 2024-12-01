@@ -43,14 +43,14 @@ Pour les formats ayant un support partiel, c'est une excellente idée de les int
 ```html
 <picture>
  <source 
-   srcset="photo.avif" 
+   srcset="photo-chat-trop-mignon.avif" 
    type="image/avif">
  <source 
-   srcset="photo.webp" 
+   srcset="photo-chat-trop-mignon.webp" 
    type="image/webp">
  <img 
-   src="photo.jpg" 
-   alt="Description" 
+   src="photo-chat-trop-mignon.jpg" 
+   alt="Un chat trop mignon" 
    width="360" 
    height="240">
 </picture>
