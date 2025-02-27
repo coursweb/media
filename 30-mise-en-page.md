@@ -18,7 +18,7 @@ Les valeurs possibles sont:
 Exemples : 
 
 * [Un exemple conçu par Jen Simmons](http://labs.jensimmons.com/2016/examples/grace-hopper-page.html).
-* [Exemple sur Mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
+* [Exemple sur Mozilla.org](https://developer.mozilla.org/fr/docs/Web/CSS/object-fit)
 
 Support navigateurs: cette propriété n'est pas supportée dans Internet Explorer, elle sera dans Edge dès la version 16. [Voir Caniuse.com](http://caniuse.com/#search=object-fit) pour le statut actuel.
 
