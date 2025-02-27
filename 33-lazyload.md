@@ -27,7 +27,7 @@ Il suffit d'ajouter un attribut `loading="lazy"` à la balise `img`. Exemple:
 <img src="image.png" loading="lazy" alt="…" width="200" height="200">
 ```
 
-C'est tout! Cet attribut indique au navigateur de ne déclencher le chargement qu'au moment où l'image devient visible. Vous améliorez ainsi la performance de votre site, car le chargement initial est accéléré.
+C'est tout 😄 ! Cet attribut indique au navigateur de ne déclencher le chargement qu'au moment où l'image devient visible. Vous améliorez ainsi la performance de votre site, car le chargement initial est accéléré.
 
 ## Ressources
 
