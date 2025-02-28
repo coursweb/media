@@ -5,7 +5,15 @@ title: Mise en page
 
 ### Les CSS backgrounds
 
-Pour les images placées en "Background" via CSS, il est possible de préciser la taille avec les mots-clés "cover" et "contain". Un exemple
+Pour les images placées en "Background" via CSS, il est possible de préciser la taille avec les mots-clés "cover" et "contain". Un exemple de code qui applique une image de fond:
+
+```
+.bg {
+  background-image: url("https://1904.cc/i/clouds.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+```
 
 <p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="vEYgXPO" data-editable="true" data-user="eracom" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/eracom/pen/vEYgXPO">
@@ -17,6 +25,7 @@ Pour les images placées en "Background" via CSS, il est possible de préciser l
 
 ### La propriété object-fit
 
+La propriété `object-fit` permet d'appliquer le mode "cover" ou "contain" sur des images ou vidéo dans le HTML (qui ne sont pas chargées par la propriété "background-image").
 Une propriété CSS longtemps attendue, qui permet de spécifier comment une image (ou vidéo) doit s'adapter à son conteneur. 
 
 Les valeurs possibles sont: 
@@ -30,6 +39,12 @@ Les valeurs possibles sont:
 Exemples : 
 
 * [Exemple interactif sur Mozilla.org](https://developer.mozilla.org/fr/docs/Web/CSS/object-fit)
+
+<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="YPzNpPy" data-editable="true" data-user="eracom" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/eracom/pen/YPzNpPy">
+  object-fit</a> by Manuel Schmalstieg (<a href="https://codepen.io/eracom">@eracom</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
 
 
 ## Explication du object-fit sur Debug TV 
