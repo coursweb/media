@@ -12,7 +12,7 @@ Pour les images placées en "Background" via CSS, il est possible de préciser l
 
 Un exemple de code qui applique une image de fond:
 
-```
+```css
 .bg {
   background-image: url("https://1904.cc/i/clouds.jpg");
   background-size: cover;
@@ -44,6 +44,8 @@ Les valeurs possibles sont:
 Exemples : 
 
 * [Exemple interactif sur Mozilla.org](https://developer.mozilla.org/fr/docs/Web/CSS/object-fit)
+
+Exemple avec une même image, avec le mode `cover`, `contain` et `fill`.
 
 <p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="YPzNpPy" data-editable="true" data-user="eracom" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/eracom/pen/YPzNpPy">
