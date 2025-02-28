@@ -3,7 +3,19 @@ layout: page
 title: Mise en page
 ---
 
-### Propriété CSS utile: object-fit
+### Les CSS backgrounds
+
+Pour les images placées en "Background" via CSS, il est possible de préciser la taille avec les mots-clés "cover" et "contain". Un exemple
+
+<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="vEYgXPO" data-editable="true" data-user="eracom" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/eracom/pen/vEYgXPO">
+  CSS Background</a> by Manuel Schmalstieg (<a href="https://codepen.io/eracom">@eracom</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
+* Voir: [HTML Background Images sur W3Schools](https://www.w3schools.com/html/html_images_background.asp)
+
+### La propriété object-fit
 
 Une propriété CSS longtemps attendue, qui permet de spécifier comment une image (ou vidéo) doit s'adapter à son conteneur. 
 
@@ -17,10 +29,8 @@ Les valeurs possibles sont:
 
 Exemples : 
 
-* [Un exemple conçu par Jen Simmons](http://labs.jensimmons.com/2016/examples/grace-hopper-page.html).
-* [Exemple sur Mozilla.org](https://developer.mozilla.org/fr/docs/Web/CSS/object-fit)
+* [Exemple interactif sur Mozilla.org](https://developer.mozilla.org/fr/docs/Web/CSS/object-fit)
 
-Support navigateurs: cette propriété n'est pas supportée dans Internet Explorer, elle sera dans Edge dès la version 16. [Voir Caniuse.com](http://caniuse.com/#search=object-fit) pour le statut actuel.
 
 ## Explication du object-fit sur Debug TV 
 
