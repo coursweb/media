@@ -5,7 +5,12 @@ title: Mise en page
 
 ### Les CSS backgrounds
 
-Pour les images placées en "Background" via CSS, il est possible de préciser la taille avec les mots-clés "cover" et "contain". Un exemple de code qui applique une image de fond:
+Pour les images placées en "Background" via CSS, il est possible de préciser la taille avec deux mots-clés 
+
+* `cover` : masquage partiel de l'image, pour remplir entièrement le cadre, sans déformation.
+* `contain` : essaie de remplir le cadre tout en gardant toute l'image visible, en la rapetissant s'il le faut.
+
+Un exemple de code qui applique une image de fond:
 
 ```
 .bg {
