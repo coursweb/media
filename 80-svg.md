@@ -106,12 +106,11 @@ Comme le SVG est un format libre, il existe un grand nombre d'outils pour les cr
 
 Il existe de nombreux éditeurs en ligne: 
 
-- [Boxy SVG](https://boxy-svg.com/)
-- [Method Draw](https://editor.method.ac/)
-- [SvgPathEditor](https://yqnn.github.io/svg-path-editor/)
-- [Graphite](https://editor.graphite.design/)
-- [SVGEdit](https://svgedit.netlify.app/editor/)
-- [PolyPal](https://flukeout.github.io/PolyPal/) "web-based SVG editor for low-poly style illustrations"...
+- [Graphite](https://editor.graphite.art/) / code sur [Github](https://github.com/GraphiteEditor/Graphite)
+- [SVGEdit](https://svgedit.netlify.app/) / code sur [Github](https://github.com/SVG-Edit/svgedit)
+- [PolyPal](https://flukeout.github.io/PolyPal/) "web-based SVG editor for low-poly style illustrations"... / code sur [Github](https://github.com/flukeout/PolyPal)
+- [Method Draw](https://editor.method.ac/) / code sur [Github](https://github.com/methodofaction/Method-Draw)
+- [SvgPathEditor](https://yqnn.github.io/svg-path-editor/) / code sur [Github](https://github.com/yqnn/svg-path-editor/) 
 
 <img src="img/svg/shapes-f14.svg" alt="Formes SVG venant du tutoriel pour Inkscape: Shapes" class="image" style="
     background: #fff;
