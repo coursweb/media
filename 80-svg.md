@@ -89,13 +89,18 @@ En dehors des propriétés spécifiques au SVG, les règles habituelles du CSS s
 
 Quelques collections d'icônes en SVG:
 
+- [The Noun Project](https://thenounproject.com/)
+- [Material Design Icons](https://fonts.google.com/icons)
 - [ICONSVG](https://iconsvg.xyz/)
 - [http://svgicons.sparkk.fr/](http://svgicons.sparkk.fr/)
 - [Feather Icons](https://feathericons.com/)
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - icônes de moins de 1kb.
-- [The Noun Project](https://thenounproject.com/)
 - [Spark Joy](https://github.com/sw-yx/spark-joy/blob/master/README.md#general--misc) - une énorme liste de sites-ressources
 - [Un fil twitter de 2022](https://twitter.com/argyleink/status/1480237318971686918) qui liste des "favorite open source icon libraries"
+
+Ressources sur la manière de dessiner des icônes:
+
+- [Material Design 3 - Designing Icons](https://m3.material.io/styles/icons/designing-icons)
 
 ### Créer ou modifier des SVG
 
