@@ -17,6 +17,8 @@ chapters:
    url: https://cours-web.ch/media/
  - title: Divers
    url: https://cours-web.ch/divers/
+plugins:
+  - jekyll-redirect-from
 # Content is split in three columns.   
 footer_col_1: <ul class="contact-list">
   <li>Eracom, Lausanne</li>

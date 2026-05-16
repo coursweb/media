@@ -2,6 +2,8 @@
 layout: page
 title: WebP, AVIF etc
 permalink: format-webp.html
+redirect_from:
+  - /w
 ---
 
 Le format WebP est un format d'image développé et mis à disposition par Google. Il est destiné à remplacer les formats JPEG et PNG. A qualité égale, le format propose des images d'environ 30% plus légères. Le format permet de produire des images sans perte (comme le PNG) ou compressées (comme le JPEG), autorise la transparence et les images animées.

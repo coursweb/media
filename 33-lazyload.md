@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Lazy load
+redirect_from:
+  - /la
 ---
 
 La technique du "lazy load" consiste à ne charger des ressources que lorsqu'elles sont nécessaires pour l'affichage visible.
