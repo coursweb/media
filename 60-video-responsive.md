@@ -26,6 +26,7 @@ Depuis 2021 ([selon caniuse](https://caniuse.com/mdn-css_properties_aspect-ratio
 ```css
 .video-iframe {
   width: 100%;
+  height: auto;
   aspect-ratio: 16 / 9;
 }
 ```
